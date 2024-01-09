@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Bawe-portofolio/static/css/main.e6c13ad2.css",
+    "main.js": "/Bawe-portofolio/static/js/main.500877a8.js",
+    "static/js/787.33649031.chunk.js": "/Bawe-portofolio/static/js/787.33649031.chunk.js",
+    "static/media/avatar1.jpg": "/Bawe-portofolio/static/media/avatar1.479b494978354b339dab.jpg",
+    "index.html": "/Bawe-portofolio/index.html",
+    "main.e6c13ad2.css.map": "/Bawe-portofolio/static/css/main.e6c13ad2.css.map",
+    "main.500877a8.js.map": "/Bawe-portofolio/static/js/main.500877a8.js.map",
+    "787.33649031.chunk.js.map": "/Bawe-portofolio/static/js/787.33649031.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.500877a8.js"
+  ]
+}
